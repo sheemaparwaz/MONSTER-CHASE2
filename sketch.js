@@ -6,7 +6,7 @@ var bgImage;
 function preload(){
   captainAmericaImg = loadAnimation("ca1.png","ca2.png","ca3.png","ca4.png")
   monster1Img = loadAnimation("monsterOne1.png","monsterOne2.png")
-  bgImage = loadImage("BG.png")
+  bgImage = loadImage("bg.png")
   //monster2Img = loadAnimation("monsterTwo3.png","monsterTwo4.png")
 }
 
