@@ -24,7 +24,7 @@ function setup(){
  bg2.velocityX = -5;
 
 
- captainAmerica = createSprite(200,displayHeight-500,30,50) 
+ captainAmerica = createSprite(200,displayHeight-300,30,50) 
  captainAmerica.addAnimation("running",captainAmericaImg);
  captainAmerica.scale = 0.2;
  
